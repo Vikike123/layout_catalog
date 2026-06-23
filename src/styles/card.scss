@@ -58,6 +58,10 @@
 
     &:hover {
       color: $title-hover-color;
+
+      .card__title {
+        color: $title-hover-color;
+      }
     }
   }
 
